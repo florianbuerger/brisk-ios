@@ -9,7 +9,6 @@ target 'Brisk iOS' do
   pod 'Sonar', :git => 'https://github.com/br1sk/Sonar'
   pod 'SVProgressHUD'
   pod 'AcknowList'
-  pod 'SwiftLint', '~> 0.27'
  
   target 'Brisk iOSTests' do
     inherit! :search_paths

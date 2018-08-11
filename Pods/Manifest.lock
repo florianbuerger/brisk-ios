@@ -5,14 +5,12 @@ PODS:
   - Sonar (0.0.1):
     - Alamofire (~> 4.7.2)
   - SVProgressHUD (2.2.5)
-  - SwiftLint (0.25.1)
 
 DEPENDENCIES:
   - AcknowList
   - InterfaceBacked
   - Sonar (from `https://github.com/br1sk/Sonar`)
   - SVProgressHUD
-  - SwiftLint (~> 0.25.1)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -20,7 +18,6 @@ SPEC REPOS:
     - Alamofire
     - InterfaceBacked
     - SVProgressHUD
-    - SwiftLint
 
 EXTERNAL SOURCES:
   Sonar:
@@ -37,8 +34,7 @@ SPEC CHECKSUMS:
   InterfaceBacked: 3db1dfb52c702bf640656a22c56df5a36ea542b4
   Sonar: 96b87f9048b557dfbcd331c5d3598b8f92724d0d
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
-  SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
 
-PODFILE CHECKSUM: c386a44e7d1e39e253a2c3ce2f97999f149909a8
+PODFILE CHECKSUM: ab975245e9136b1e0008f7b33f2c1f13bc1cb41b
 
 COCOAPODS: 1.5.3
